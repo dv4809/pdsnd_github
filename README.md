@@ -15,3 +15,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ##Change 3
 This nanodegree also help me in the career services
+##Change 4
+I also learned about github and linkedin
